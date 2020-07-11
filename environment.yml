@@ -1,0 +1,5 @@
+name: poisoning_attack
+channels:
+  - http://conda.anaconda.org/gurobi
+  - defaults
+  - conda-forge
